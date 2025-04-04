@@ -13,7 +13,9 @@ Docnet is a networking platform that connects doctors, nurses, hospitals, medica
 #Tech Stack
 
 •	Frontend: HTML, CSS, JavaScript, React+Vite
+
 •	Backend: Node.js, Express.js
+
 •	Database: MySQL
 
 
