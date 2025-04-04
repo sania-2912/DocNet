@@ -19,9 +19,13 @@ Docnet is a networking platform that connects doctors, nurses, hospitals, medica
 •	Database: MySQL
 
 
+
 Project done by
+
 •	Sania Golhar
+
 •	Kuhoo Shinde
+
 •	Manasvi Rangdale
 
 WELCOME PAGE 
